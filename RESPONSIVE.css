@@ -1,0 +1,188 @@
+@media  (max-width: 600px)
+{
+body{
+}
+
+
+
+#navbar h1
+{
+float: none;
+
+
+}
+#navbar ul {
+    float: none;
+    list-style: none;
+
+}
+ #navbar ul li {
+     float: none;
+
+ }
+ #navbar ul li a 
+ {
+    display: block;
+    text-align: center;
+    border-bottom: 1px #444 solid;
+
+ }
+
+
+ #showcase .showcase-content h1 {
+    font-size: 40px;
+    line-height: 1.2em;
+}
+
+
+
+#homeinfo{
+    height: 375px;
+}
+
+#text 
+{
+float: none;
+width: 100%;
+margin-bottom:10px; 
+
+}
+
+
+#img{
+    display: none;
+    }
+
+
+
+
+    .box
+    {
+        float: none;
+        width: 100%;
+    }
+    
+    #main-footer
+{
+padding:10px 
+
+}
+
+
+#aboutHotel{
+    float: none;
+    width: 100%;
+
+}
+
+#pic
+{
+ float: none;
+ width: 100%;
+
+}
+
+#pic img{
+    float: none;
+    margin-left:55px; 
+}
+
+
+.l-heading {
+    font-size: 30px;
+    text-align: center;
+}
+
+#guest
+{
+   height: 700px;
+   padding-top: 30px;
+    
+}
+
+#guest h2 {
+    padding-bottom:57px; 
+}
+
+
+
+.testimonial p{
+    font-size:11px; 
+    
+}
+
+#guest .testimonial {
+    padding: 10px;
+    margin-bottom: 70px;
+    border-radius: 5px;
+    opacity: 0.9;
+}
+
+
+
+
+#contact-form  p
+{
+    padding-left: 47px;
+
+}
+
+#contact-form .btn{
+   margin-left:130px;
+
+}
+
+#contact-info .box{
+    padding: 20px;
+    border-bottom:1px solid #444; 
+}
+
+
+
+}
+
+
+@media (max-width: 350px){
+    #main-footer
+    {
+    padding:2px;
+    }
+
+
+ #guest
+{
+   height: 800px;
+   padding-top: 30px;
+    
+}
+
+#guest h2 {
+    padding-bottom:57px; 
+    font-size: 25px;
+} 
+
+
+#contact-form .btn{
+    margin-left:100px;
+ 
+ }
+
+}
+
+@media  (min-width: 350px) 
+{
+
+#contact-form .btn{
+    margin-left:140px;
+ 
+ }
+
+}
+
+@media(min-width: 355px) and (max-width: 380px)
+{
+    #contact-form .btn{
+        margin-left:125px;
+     
+     }
+}
